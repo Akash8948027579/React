@@ -7,11 +7,14 @@ import Page2 from './Components/Page2';
 import Page3 from './Components/Page3';
 import Appbar from './Components/Appbar';
 import Responsive from './Components/Responsive';
+import Nexcent from './Components/Nexcent';
+import Nexcentapp from './Components/Nexcentapp';
 
 function App() {
   return (
     <>
-    <Home/>
+    <Home/> 
+    {/* Home page  */}
     </>
   );
 }
